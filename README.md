@@ -1,1 +1,1 @@
-# Stock-Market-Predication
+# Titanic-Classification-Predication
